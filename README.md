@@ -3,9 +3,9 @@
 Aplicativo mobile simples desenvolvido para a atividade do PIT, com o objetivo de exibir cupcakes, visualizar detalhes e simular um pedido básico.
 
 ## 📱 Funcionalidades
-- Lista de cupcakes
-- Detalhes do produto
-- Carrinho básico
+- Interface de Login
+- Chat de interacao (Vendedor x Cliente)
+- Checkout de Venda (Frete, Pagamento, Valor, itens, Cupom)
 - Simulação de confirmação do pedido
 
 ## 🛠 Tecnologias Utilizadas
