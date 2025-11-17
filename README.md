@@ -16,4 +16,11 @@ Aplicativo mobile simples desenvolvido para a atividade do PIT, com o objetivo d
 
 ## 🧩 Estrutura do Repositório
 /documentacao     → arquivos da documentação  
-/backend          → API em Node.js
+/backend          → API em Node.js  
+/app_flutter      → código inicial em Flutter  
+
+## 📄 Documentação
+Toda a documentação está na pasta **/documentacao**.
+
+## 🎯 Objetivo
+Representar uma solução simples de aplicativo mobile conforme solicitado no PIT, com foco em funcionalidades básicas e coerentes para avaliação.
